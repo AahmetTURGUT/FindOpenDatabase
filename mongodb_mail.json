@@ -1,0 +1,141 @@
+{
+    "MongoDb_getMail": [
+        {
+            "ip": "185.85.72.2",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "database_names": "fastfly",
+            "collection_names": "fastfly",
+            "mail": [
+                "EDA.SERBEST@FASTFLY.COM",
+                "aslan1@aslan.cm",
+                "ASLAN1@ASLAN.CM",
+                "asdsad@dsad.cm",
+                "ASDSAD@DSAD.CM"
+            ]
+        },
+        {
+            "ip": "178.157.14.164",
+            "company": "Aerotek Bilisim Sanayi ve Ticaret AS",
+            "database_names": "basisDB",
+            "collection_names": "basisDB",
+            "mail": [
+                "esra@kalemyazilim.com"
+            ]
+        },
+        {
+            "ip": "178.157.14.164",
+            "company": "Aerotek Bilisim Sanayi ve Ticaret AS",
+            "database_names": "basisDB",
+            "collection_names": "basisDB",
+            "mail": [
+                "esra@kalemyazilim.com"
+            ]
+        },
+        {
+            "ip": "78.186.112.243",
+            "company": "Turk Telekom",
+            "database_names": "managementSuite",
+            "collection_names": "managementSuite",
+            "mail": [
+                "1234@10.10.1.3",
+                "1234@10.10.4.3",
+                "1234@10.10.3.3",
+                "1234@10.10.2.6",
+                "admin@10.10.2.5",
+                "admin@10.10.2.4",
+                "admin@10.10.2.3"
+            ]
+        },
+        {
+            "ip": "185.86.4.171",
+            "company": "Dgn Teknoloji A.s.",
+            "database_names": "arcelik_motion",
+            "collection_names": "arcelik_motion",
+            "mail": [
+                "arcelik@opthema.com"
+            ]
+        },
+        {
+            "ip": "93.94.253.164",
+            "company": "TI Sparkle Turkey Telekomunukasyon A.S",
+            "database_names": "Warn",
+            "collection_names": "Warn",
+            "mail": [
+                "dbbak_service@protonmail.com"
+            ]
+        },
+        {
+            "ip": "93.94.253.164",
+            "company": "TI Sparkle Turkey Telekomunukasyon A.S",
+            "database_names": "iviermongodb",
+            "collection_names": "iviermongodb",
+            "mail": [
+                "bilgiteknolojileri@tezol.com.tr",
+                "Tolga.Urekli@saint-gobain.com",
+                "tilbe@atolye.io",
+                "nesrin.bayram@apy.com.tr",
+                "flypgsvehicle@i-vier.com",
+                "dogukan@atolye.io",
+                "safiport@i-vier.com",
+                "tav@i-vier.com",
+                "asli.yegul@atolye.io",
+                "murat.feruz@i-vier.com",
+                "kturan@keyline-tr.com",
+                "metin.can@i-vier.com",
+                "flypgs@i-vier.com",
+                "i-vier.personel@i-vier.com",
+                "gulfer.akgun@i-vier.com",
+                "mevlut@atolye.io",
+                "baha.tosun@sistemglobal.com.tr",
+                "destek@i-vier.com",
+                "personel@i-vier.com",
+                "gulhan.karaman@apy.com.tr",
+                "saglik@i-vier.com",
+                "sanayi@i-vier.com",
+                "worx3@i-vier.com",
+                "iclal.devrimsoyugenc@bmc.com.tr",
+                "bereket@i-vier.com",
+                "aylinsensoy@linamimarlik.com.tr",
+                "kerim.onder@i-vier.com",
+                "demoarac@i-vier.com",
+                "demopersonel@i-vier.com",
+                "barbaros@atolye.io",
+                "ege@atolye.io",
+                "acibademtaksim@i-vier.com",
+                "dahibilisim@i-vier.com",
+                "icimsut@i-vier.com"
+            ]
+        },
+        {
+            "ip": "95.0.132.22",
+            "company": "Turk Telekom",
+            "database_names": "hacked_by_unistellar",
+            "collection_names": "hacked_by_unistellar",
+            "mail": [
+                "unistellar@yandex.com"
+            ]
+        },
+        {
+            "ip": "185.85.75.10",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "database_names": "fastfly",
+            "collection_names": "fastfly",
+            "mail": [
+                "EDA.SERBEST@FASTFLY.COM",
+                "aslan1@aslan.cm",
+                "ASLAN1@ASLAN.CM",
+                "asdsad@dsad.cm",
+                "ASDSAD@DSAD.CM"
+            ]
+        },
+        {
+            "ip": "178.18.200.116",
+            "company": "Vargonen MAIL Network",
+            "database_names": "Aa1_Where_is_my_data",
+            "collection_names": "Aa1_Where_is_my_data",
+            "mail": [
+                "getmydb@protonmail.com"
+            ]
+        }
+    ]
+}

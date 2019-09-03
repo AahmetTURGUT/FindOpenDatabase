@@ -1,0 +1,436 @@
+{
+    "ElasticSearch": [
+        {
+            "ip": "188.132.227.44",
+            "company": "Equinix Turkey Internet Hizmetleri Anonim Sirketi",
+            "size": "1.0 kB"
+        },
+        {
+            "ip": "46.235.14.42",
+            "company": "Netfactor Telekominikasyon Ve Teknoloji Hizmetleri",
+            "size": "97.0 MB"
+        },
+        {
+            "ip": "94.73.130.243",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "19.0 GB"
+        },
+        {
+            "ip": "213.128.67.125",
+            "company": "Radore Veri Merkezi Hizmetleri A.S.",
+            "size": "1.0 GB"
+        },
+        {
+            "ip": "78.186.130.224",
+            "company": "Turk Telekom",
+            "size": "7.0 kB"
+        },
+        {
+            "ip": "185.67.205.81",
+            "company": "Layer Sistem tic. ltd. sti.",
+            "size": "393.0 MB"
+        },
+        {
+            "ip": "213.14.160.136",
+            "company": "SolNet",
+            "size": "466.0 kB"
+        },
+        {
+            "ip": "94.73.130.246",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "19.0 GB"
+        },
+        {
+            "ip": "185.122.39.51",
+            "company": "Chronos",
+            "size": "5.0 kB"
+        },
+        {
+            "ip": "176.53.87.123",
+            "company": "Radore Veri Merkezi Hizmetleri A.S.",
+            "size": "546.0 MB"
+        },
+        {
+            "ip": "88.246.3.134",
+            "company": "Turk Telekom",
+            "size": "462.0 kB"
+        },
+        {
+            "ip": "83.150.215.242",
+            "company": "Fikri DAL",
+            "size": "4.0 GB"
+        },
+        {
+            "ip": "185.28.3.188",
+            "company": "SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare",
+            "size": "1.0 MB"
+        },
+        {
+            "ip": "46.20.157.227",
+            "company": "Dora Telekomunikasyon Hizmetleri",
+            "size": "350.0 MB"
+        },
+        {
+            "ip": "91.191.173.215",
+            "company": "Netdirekt A.S.",
+            "size": "36.0 GB"
+        },
+        {
+            "ip": "94.73.130.244",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "27.0 GB"
+        },
+        {
+            "ip": "94.73.130.242",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "9.0 GB"
+        },
+        {
+            "ip": "77.92.100.170",
+            "company": "Teknotel Telekomunikasyon Sanayi Ve Ticaret A.s.",
+            "size": "2.0 MB"
+        },
+        {
+            "ip": "95.0.46.20",
+            "company": "Turk Telekom",
+            "size": "68.0 MB"
+        },
+        {
+            "ip": "95.0.61.83",
+            "company": "Turk Telekom",
+            "size": "240.0 kB"
+        },
+        {
+            "ip": "188.132.226.4",
+            "company": "Equinix Turkey Internet Hizmetleri Anonim Sirketi",
+            "size": "166.0 MB"
+        },
+        {
+            "ip": "89.106.24.150",
+            "company": "Grid Bilisim Teknolojileri A.S.",
+            "size": "2.0 MB"
+        },
+        {
+            "ip": "46.235.14.61",
+            "company": "Netfactor Telekominikasyon Ve Teknoloji Hizmetleri",
+            "size": "25.0 GB"
+        },
+        {
+            "ip": "89.43.67.203",
+            "company": "Netinternet Bilisim Teknolojileri AS",
+            "size": "426.0 MB"
+        },
+        {
+            "ip": "188.132.135.64",
+            "company": "Equinix Turkey Internet Hizmetleri Anonim Sirketi",
+            "size": "3.0 GB"
+        },
+        {
+            "ip": "185.85.207.185",
+            "company": "AKA Bilisim Yazilim Arge Ins. Taah. San. Tic. A.S.",
+            "size": "4.0 kB"
+        },
+        {
+            "ip": "185.28.3.181",
+            "company": "SAGLAYICI Teknoloji Bilisim Yayincilik Hiz. Ticare",
+            "size": "1.0 MB"
+        },
+        {
+            "ip": "185.22.187.248",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "15.0 kB"
+        },
+        {
+            "ip": "178.18.206.157",
+            "company": "Vargonen Network",
+            "size": "161.0 MB"
+        },
+        {
+            "ip": "31.3.2.170",
+            "company": "Medianova Internet Hizmetleri Ve Ticaret Anonim Si",
+            "size": "12.0 kB"
+        },
+        {
+            "ip": "89.43.30.103",
+            "company": "Netinternet Bilisim Teknolojileri AS",
+            "size": "4.0 kB"
+        },
+        {
+            "ip": "176.235.128.197",
+            "company": "Turkcell Superonline",
+            "size": "25.0 MB"
+        },
+        {
+            "ip": "37.247.105.22",
+            "company": "Dgn Teknoloji A.s.",
+            "size": "21.0 MB"
+        }
+    ],
+    "MongoDb": [
+        {
+            "ip": "185.85.72.2",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "19.1 MB"
+        },
+        {
+            "ip": "178.157.14.164",
+            "company": "Aerotek Bilisim Sanayi ve Ticaret AS",
+            "size": "288.0 kB"
+        },
+        {
+            "ip": "78.186.112.243",
+            "company": "Turk Telekom",
+            "size": "1004.0 kB"
+        },
+        {
+            "ip": "185.86.4.171",
+            "company": "Dgn Teknoloji A.s.",
+            "size": "1.7 MB"
+        },
+        {
+            "ip": "93.94.253.164",
+            "company": "TI Sparkle Turkey Telekomunukasyon A.S",
+            "size": "192.7 MB"
+        },
+        {
+            "ip": "178.18.204.66",
+            "company": "Vargonen Network",
+            "size": "228.0 kB"
+        },
+        {
+            "ip": "185.22.186.78",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "236.0 kB"
+        },
+        {
+            "ip": "95.0.132.22",
+            "company": "Turk Telekom",
+            "size": "240.0 MB"
+        },
+        {
+            "ip": "185.85.75.10",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "24.5 MB"
+        },
+        {
+            "ip": "178.18.200.116",
+            "company": "Vargonen MAIL Network",
+            "size": "16.6 GB"
+        },
+        {
+            "ip": "94.101.81.22",
+            "company": "Radore Veri Merkezi Hizmetleri A.S.",
+            "size": "80.0 MB"
+        },
+        {
+            "ip": "85.98.42.165",
+            "company": "Turk Telekom",
+            "size": "14.4 MB"
+        },
+        {
+            "ip": "195.155.67.237",
+            "company": "TI Sparkle Turkey Telekomunukasyon A.S",
+            "size": "156.0 kB"
+        },
+        {
+            "ip": "212.146.150.218",
+            "company": "Nano Iletisim Bilisim Hizmetleri Teknoloji Sisteml",
+            "size": "14.0 MB"
+        },
+        {
+            "ip": "212.146.150.219",
+            "company": "Nano Iletisim Bilisim Hizmetleri Teknoloji Sisteml",
+            "size": "18.0 MB"
+        },
+        {
+            "ip": "185.219.134.115",
+            "company": "Hostigger, Inc.",
+            "size": "136.0 kB"
+        },
+        {
+            "ip": "185.85.75.12",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "23.1 MB"
+        },
+        {
+            "ip": "185.219.132.3",
+            "company": "Hostigger, Inc.",
+            "size": "96.0 MB"
+        },
+        {
+            "ip": "37.247.103.74",
+            "company": "Dgn Teknoloji A.s.",
+            "size": "139.9 MB"
+        },
+        {
+            "ip": "85.111.0.1",
+            "company": "Turk Telekom",
+            "size": "264.0 kB"
+        },
+        {
+            "ip": "185.153.228.247",
+            "company": "Bursabil Teknoloji A.S.",
+            "size": "132.0 kB"
+        },
+        {
+            "ip": "188.132.135.64",
+            "company": "Equinix Turkey Internet Hizmetleri Anonim Sirketi",
+            "size": "364.9 GB"
+        },
+        {
+            "ip": "185.85.72.6",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "8.8 MB"
+        },
+        {
+            "ip": "185.132.127.21",
+            "company": "Onlinenet Bil. Turzm. Teks. San. Ve Tic. Ltd. Sti.",
+            "size": "624.0 MB"
+        },
+        {
+            "ip": "185.85.75.11",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "14.5 MB"
+        },
+        {
+            "ip": "178.18.195.58",
+            "company": "Vargonen Teknoloji ve Bilisim Sanayi Ticaret Anoni",
+            "size": "104.0 kB"
+        },
+        {
+            "ip": "185.67.205.81",
+            "company": "Layer Sistem tic. ltd. sti.",
+            "size": "1.0 GB"
+        },
+        {
+            "ip": "94.102.5.12",
+            "company": "Netinternet Bilisim Teknolojileri AS",
+            "size": "55.4 MB"
+        },
+        {
+            "ip": "178.211.48.28",
+            "company": "Radore Veri Merkezi Hizmetleri A.S.",
+            "size": "664.0 kB"
+        },
+        {
+            "ip": "77.92.140.36",
+            "company": "Equinix Turkey Internet Hizmetleri Anonim Sirketi",
+            "size": "80.0 MB"
+        },
+        {
+            "ip": "185.85.72.5",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "37.4 MB"
+        },
+        {
+            "ip": "185.85.72.3",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "36.8 MB"
+        },
+        {
+            "ip": "46.235.14.61",
+            "company": "Netfactor Telekominikasyon Ve Teknoloji Hizmetleri",
+            "size": "421.3 GB"
+        },
+        {
+            "ip": "212.125.21.104",
+            "company": "TurkNet Iletisim Hizmetleri A.S.",
+            "size": "11.0 GB"
+        },
+        {
+            "ip": "83.150.214.34",
+            "company": "Fikri DAL",
+            "size": "72.5 GB"
+        },
+        {
+            "ip": "176.33.14.111",
+            "company": "Turkcell Superonline",
+            "size": "632.0 kB"
+        },
+        {
+            "ip": "185.85.75.13",
+            "company": "Data TR Bilisim Teknoloji Hizmetleri",
+            "size": "32.5 MB"
+        },
+        {
+            "ip": "185.9.157.115",
+            "company": "SPDNet Telekomunikasyon Hizmetleri Bilgi Teknoloji",
+            "size": "120.0 kB"
+        },
+        {
+            "ip": "185.122.203.163",
+            "company": "Makdos Bilisim Teknolojileri San. Tic. Ltd. Sti.",
+            "size": "512.0 kB"
+        },
+        {
+            "ip": "178.250.91.195",
+            "company": "Ramtek Telekomunikasyon Hizmetleri Sanayi Ve Ticar",
+            "size": "164.0 kB"
+        },
+        {
+            "ip": "185.153.248.51",
+            "company": "Elastik Bulut Teknolojileri Girisim Ve Ticaret Ano",
+            "size": "72.7 MB"
+        },
+        {
+            "ip": "31.210.49.222",
+            "company": "Equinix Turkey Internet Hizmetleri Anonim Sirketi",
+            "size": "440.0 kB"
+        },
+        {
+            "ip": "95.0.231.246",
+            "company": "Turk Telekom",
+            "size": "220.0 kB"
+        },
+        {
+            "ip": "31.207.87.3",
+            "company": "Aerotek Bilisim Sanayi ve Ticaret AS",
+            "size": "190.7 MB"
+        },
+        {
+            "ip": "37.148.211.49",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "1.5 MB"
+        },
+        {
+            "ip": "89.19.14.138",
+            "company": "Cizgi Telekomunikasyon Anonim Sirketi",
+            "size": "812.0 kB"
+        },
+        {
+            "ip": "178.18.206.152",
+            "company": "Vargonen Network",
+            "size": "80.0 MB"
+        },
+        {
+            "ip": "31.186.23.58",
+            "company": "TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.",
+            "size": "80.0 MB"
+        },
+        {
+            "ip": "212.175.35.29",
+            "company": "Turk Telekom",
+            "size": "220.0 kB"
+        },
+        {
+            "ip": "31.186.25.244",
+            "company": "TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.",
+            "size": "208.0 MB"
+        },
+        {
+            "ip": "185.93.71.214",
+            "company": "ibrahim tufek",
+            "size": "620.0 kB"
+        },
+        {
+            "ip": "89.107.227.178",
+            "company": "Dgn Teknoloji A.s.",
+            "size": "292.0 kB"
+        },
+        {
+            "ip": "185.9.157.114",
+            "company": "SPDNet Telekomunikasyon Hizmetleri Bilgi Teknoloji",
+            "size": "120.0 kB"
+        }
+    ]
+}
